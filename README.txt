@@ -51,7 +51,7 @@ Due to the nature of the text-adventure RPG genre,
 all available options will always be shown on screen with their corresponding hotkeys besides them.
 Here are a couple common keybinds:
 
-- N = Move north
+- W = Move north
 - D = Move east
 - S = Move south
 - A = Move west
