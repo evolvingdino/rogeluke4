@@ -52,9 +52,9 @@ all available options will always be shown on screen with their corresponding ho
 Here are a couple common keybinds:
 
 - N = Move north
-- E = Move east
+- D = Move east
 - S = Move south
-- W = Move west
+- A = Move west
 - I = Show inventory
 
 	SECTION D: STORYLINE & LORE
